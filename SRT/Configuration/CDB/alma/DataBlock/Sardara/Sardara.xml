@@ -111,6 +111,636 @@
 </Configuration>
 
 <Configuration>
+	<configurationID>SK10</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>1 1 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK11</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>L R</polarizations>
+	<feed>1 1</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK12</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>1 1 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK13</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>1 1 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK14</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>1 1 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK15</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>1 1 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK16</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>1 1 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK20</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>2 2 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK21</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>2 2 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK22</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>L R</polarizations>
+	<feed>2 2</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK23</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>2 2 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK24</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>2 2 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK25</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>2 2 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK26</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>2 2 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK30</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>3 3 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK31</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>3 3 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK32</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>3 3 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK33</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>L R</polarizations>
+	<feed>3 3</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK34</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>3 3 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK35</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>3 3 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK36</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>3 3 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK40</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>4 4 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK41</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>4 4 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK42</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>4 4 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK43</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>4 4 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK44</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>L R</polarizations>
+	<feed>4 4</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK45</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>4 4 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK46</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>4 4 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK50</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>5 5 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK51</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>5 5 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK52</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>5 5 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK53</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>5 5 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK54</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>5 5 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK55</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>L R</polarizations>
+	<feed>5 5</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK56</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>5 5 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK60</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>6 6 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK61</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>6 6 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK62</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>6 6 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK63</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>6 6 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK64</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>6 6 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK65</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>L R L R</polarizations>
+	<feed>6 6 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK66</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>L R</polarizations>
+	<feed>6 6</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
 	<configurationID>SK77</configurationID>
 	<sections>14</sections>
 	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
@@ -287,6 +917,636 @@
 	<polarizations>S S S S S S S S S S S S S S</polarizations>
 	<feed>0 0 1 1 2 2 3 3 4 4 5 5 6 6</feed>
 	<IF>0 1 0 1 0 1 0 1 0 1 0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK10S</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>1 1 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK11S</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>S S</polarizations>
+	<feed>1 1</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK12S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>1 1 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK13S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>1 1 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK14S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>1 1 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK15S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>1 1 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK16S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>1 1 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK20S</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>2 2 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK21S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>2 2 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK22S</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>S S</polarizations>
+	<feed>2 2</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK23S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>2 2 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK24S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>2 2 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK25S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>2 2 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK26S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>2 2 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK30S</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>3 3 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK31S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>3 3 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK32S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>3 3 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK33S</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>S S</polarizations>
+	<feed>3 3</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK34S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>3 3 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK35S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>3 3 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK36S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>3 3 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK40S</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>4 4 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK41S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>4 4 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK42S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>4 4 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK43S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>4 4 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK44S</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>S S</polarizations>
+	<feed>4 4</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK45S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>4 4 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK46S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>4 4 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK50S</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>5 5 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK51S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>5 5 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK52S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>5 5 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK53S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>5 5 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK54S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>5 5 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK55S</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>S S</polarizations>
+	<feed>5 5</feed>
+	<IF>0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK56S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>5 5 6 6</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK60S</configurationID>
+    <sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>6 6 0 0</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK61S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>6 6 1 1</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK62S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>6 6 2 2</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK63S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>6 6 3 3</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK64S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>6 6 4 4</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK65S</configurationID>
+	<sections>4</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>2</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1 2 3</section_boards>
+	<polarizations>S S S S</polarizations>
+	<feed>6 6 5 5</feed>
+	<IF>0 1 0 1</IF>
+	<bins>1024</bins>
+</Configuration>
+
+<Configuration>
+	<configurationID>SK66S</configurationID>
+	<sections>2</sections>
+	<calSwitchingEnabled>TRUE</calSwitchingEnabled>
+	<inputPort>GREGORIAN</inputPort>
+	<beams>1</beams>
+ 	<bandWidth>1500.0</bandWidth>
+ 	<attenuation>7.0</attenuation>		
+	<section_boards>0 1</section_boards>
+	<polarizations>S S</polarizations>
+	<feed>6 6</feed>
+	<IF>0 1</IF>
 	<bins>1024</bins>
 </Configuration>
 
