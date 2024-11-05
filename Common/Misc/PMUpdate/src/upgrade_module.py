@@ -10,8 +10,8 @@ def load_error_file_on_xml(errorfilename, pointingxmlfilename, receivername):
     """
     funzione per l'aggiornamento del file pointingxmlfilename passato con le informazioni dei parametri di puntamento presenti nel file errorfilename
 
-    :param errorfilename: file con i paramenti di puntamento ottento tramite il programma pdplt
-    :param pointingxmlfilename: file xml con i modelli di puntamento di nuraghe
+    :param errorfilename: file con i paramenti di puntamento ottenuto tramite il programma pdplt
+    :param pointingxmlfilename: file xml con i modelli di puntamento di DISCOS
     :param receivername:  nome del ricevitore per il quale si stanno aggiornando i dati di puntamento
     :return: tupla (x:int, description:string) con un codice di errore e la descrizione dell'errore quando x=0 nessun errore
 
@@ -67,20 +67,20 @@ def load_error_file_on_xml(errorfilename, pointingxmlfilename, receivername):
             return (7, "errorfilename: new model section too short")
 
 
-        if len(errorfilename_rows[0]) <> 7 or  \
-                len(errorfilename_rows[1]) <> 31 or \
-                len(errorfilename_rows[2]) <> 5 or \
-                len(errorfilename_rows[3]) <> 5 or \
-                len(errorfilename_rows[4]) <> 5 or \
-                len(errorfilename_rows[5]) <> 5 or \
-                len(errorfilename_rows[6]) <> 5 or \
-                len(errorfilename_rows[7]) <> 5:
+        if len(errorfilename_rows[0]) != 7 or  \
+                len(errorfilename_rows[1]) != 31 or \
+                len(errorfilename_rows[2]) != 5 or \
+                len(errorfilename_rows[3]) != 5 or \
+                len(errorfilename_rows[4]) != 5 or \
+                len(errorfilename_rows[5]) != 5 or \
+                len(errorfilename_rows[6]) != 5 or \
+                len(errorfilename_rows[7]) != 5:
             return (8, "errorfilename: not enough parameters in new model section")
 
         try:
             newmodel_date = convert_time_doy_to_string_format(errorfilename_rows[0])
         except RuntimeError, e:
-            return (1001, "DOY convertion error: " + e.message)
+            return (1001, "DOY convertion error: " + str(e))
         phi = errorfilename_rows[1][0]
 
         coefficientNum = errorfilename_rows[1][1:]
